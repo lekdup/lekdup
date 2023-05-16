@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Algorithms and Data structuress**
 
