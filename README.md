@@ -5,8 +5,8 @@
 I'm Tenzin, a dedicated web developer in the final year of my bachelor's degree program. I'm passionate about bridging the gap between academia and the real world, which is why I'm currently engaged in an internship that allows me to gain valuable hands-on experience while completing my studies. My journey in the world of web development has been a fascinating one, and I'm continually expanding my skill set. Currently, I'm immersed in the world of Java, eager to harness its power to create dynamic and innovative web solutions. I'm excited about the endless possibilities that lie ahead in my career, and I'm committed to pushing the boundaries of what I can achieve in the field of web development.
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lekdup/){:target="_blank"} 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekdup/){:target="_blank"} 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lekdup/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekdup/)
 
 
 # 💻Tech Stack
